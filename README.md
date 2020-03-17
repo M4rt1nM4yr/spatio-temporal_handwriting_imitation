@@ -2,6 +2,8 @@
 
 ![Pipeline Overview](pipeline.png)
 
+Paper Link: __TODO add link to arxiv__
+
 ## Abstract:
 
 Most people think that their handwriting is unique and cannot be imitated by machines, especially not using completely new content. 
@@ -18,13 +20,15 @@ See requirements.txt
 
 ## Run the full pipeline
 
-See demo.sh
+Before running the pipeline the trained model checkpoints have to be copied into the folder _checkpoints_ from **TODO: add G drive link here**.
+To run the pipeline see __demo.sh__. 
+
 
 ## Code contribution
 
-Mainly coded by https://github.com/Finomnis
+The code was mainly produced by https://github.com/Finomnis
 
-## External codes
+## External sources
 
 Link: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 Link: https://github.com/sjvasquez/handwriting-synthesis
