@@ -6,7 +6,7 @@ Paper Link: __TODO add link to arxiv__
 
 ## Abstract:
 
-Most people think that their handwriting is unique and cannot be imitated by machines, especially not using completely new content. 
+>Most people think that their handwriting is unique and cannot be imitated by machines, especially not using completely new content. 
 Current cursive handwriting synthesis is visually limited or needs user interaction.
 We show that subdividing the process into smaller subtasks makes it possible to imitate someone's handwriting with a high chance to be visually indistinguishable for humans.
 Therefore, a given handwritten sample will be used as the target style. 
@@ -20,7 +20,7 @@ See requirements.txt
 
 ## Run the full pipeline
 
-Before running the pipeline the trained model checkpoints have to be copied into the folder _checkpoints_ from **TODO: add G drive link here**.
+Before running the pipeline the trained model checkpoints have to be copied into the folder _checkpoints_ from https://drive.google.com/open?id=11fc8b7QTSqL8oIjs7ddGutlRKEL8NBqh.
 To run the pipeline see __demo.sh__. 
 
 
