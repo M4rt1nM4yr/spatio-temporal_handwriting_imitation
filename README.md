@@ -2,7 +2,7 @@
 
 ![Pipeline Overview](pipeline.png)
 
-Paper Link: __TODO add link to arxiv__
+Paper Link: https://arxiv.org/abs/2003.10593
 
 ## Abstract:
 
