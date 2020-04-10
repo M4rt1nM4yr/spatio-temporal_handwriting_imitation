@@ -6,4 +6,4 @@ pillow==7.0.0
 scipy==1.4.1
 tqdm==4.36.1
 pybind11==2.4.3
-torchvision==0.4.1
+torchvision>=0.5.0
